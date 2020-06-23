@@ -10,6 +10,12 @@
 
 NOTE: Braifuck ignores ALL chacters except the following 8 commands:
 
+- Brainfuck was designed with the goal of implementing it with the smallest possible compiler
+
+Below is a link to a BF Visualizer:
+https://fatiherikli.github.io/brainfuck-visualizer/
+
+
 !
 	+
 		-
@@ -31,8 +37,8 @@ Everything that is not any of the above can go fuck off and consider iteslf a CO
 							 /// IN BrainFuck ///
 ______________________________________________________________________________________
 
->++++++++[<+++++++++>-]<.>++++[<+++++++>-]<+.+++++++..+++.>>++++++[<+++++++>-]<+
-+.------------.>++++++[<+++++++++>-]<+.<.+++.------.--------.>>>++++[<++++++++>-
+>++++++++[<+++++++++>-]<.>++++[<+++++++>-]= H<+.+++++++..+++.>>++++++[<+++++++>-]<+
++.------------.>++++++[<+++++++++>-]= Hello <+.<.+++.------.--------.>>>++++[<++++++++>-
 ]<+.
 ______________________________________________________________________________________
 Above OUTPUT: Hello, World!
